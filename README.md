@@ -3,7 +3,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://karishmaaa101.io)
 <h1 align="center">Hello there 👋, I am Karishma Seth</h1>
 <h3 align="center">A Frontend Developer fueled by passion from India</h3>
-<img align="right" alt ="Coding" width="400" src = "https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5MzMzMTEsIm5iZiI6MTcwODkzMzAxMSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDA3MzY1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1Zjk5MDA2MWIxMmVlMmE0MDBmMmM5NWFjMmEyMDc5OTNkZTVmZWM1OGUzZjg3NjViMGM4MGI2MmFkMmFlMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QMzPRzB-WN6mds-FINN5ojwDk2fr3EIJ1w1VjVxM4VA">
+<img align="right" alt ="Coding" width="400" src = "https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 <p align="left"> <a href="https://twitter.com/karishmaseth6" target="blank"><img src="https://img.shields.io/twitter/follow/karishmaseth6?logo=twitter&style=for-the-badge" alt="karishmaseth6" /></a> </p>
 
