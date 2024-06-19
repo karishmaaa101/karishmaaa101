@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/karishmaseth6" target="blank"><img src="https://img.shields.io/twitter/follow/karishmaseth6?logo=twitter&style=for-the-badge" alt="karishmaseth6" /></a> </p>
 
-- 🔭 I’m currently working on **PinQuest:Your Idea Board and Chat Companion**
+- 🔭 I’m currently working on **PinQuest: Your Idea Board and Chat Companion**
 
 - 🌱 I’m currently learning **Express, React, Node JS**
 
-<!--- 👨‍💻 All of my projects are available at **https://karishmaaa101.github.io/Portfolio/** -->
+- 👨‍💻 All of my projects are available at **https://karishmaaa101.github.io/Portfolio/** 
 
 - 📫 How to reach me **karishmaseth461@gmail.com**
 
