@@ -40,7 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karishmaaa101&show_icons=true&locale=en" alt="karishmaaa101" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karishmaaa101&" alt="karishmaaa101" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karishmaaa101&" alt="karishmaaa101" /></p>-->
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
