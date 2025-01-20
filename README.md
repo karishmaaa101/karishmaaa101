@@ -44,7 +44,8 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://private-user-images.githubusercontent.com/125277258/340157517-73a5969d-b2cf-4263-bfd7-d9de67545902.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0MDkyODQsIm5iZiI6MTczNzQwODk4NCwicGF0aCI6Ii8xMjUyNzcyNTgvMzQwMTU3NTE3LTczYTU5NjlkLWIyY2YtNDI2My1iZmQ3LWQ5ZGU2NzU0NTkwMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMFQyMTM2MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDdjNGM5MmRjZTdjOWJlNDIyYmUyNjY2MWQzMjQwZTQyYTQ0NjA5MTRmN2E0NzcwYTliMzZlMjU0NzIzMzVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Nx1JQaGmXl7OiWaK4z6oe7CSMtBBBd_M70EVz0Hb4d0">
+<!-- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
@@ -53,4 +54,4 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
-</div>
+</div> 
